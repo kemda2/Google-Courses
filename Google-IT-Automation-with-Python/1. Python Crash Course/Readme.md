@@ -1,4 +1,4 @@
-![1 Crash Course on Python](./images/1%20Crash%20Course%20on%20Python.jpeg)
+![1 Crash Course on Python](1%20Crash%20Course%20on%20Python.jpeg)
 
 ## [Crash Course on Python](https://www.coursera.org/learn/python-crash-course?specialization=google-it-automation)
 
