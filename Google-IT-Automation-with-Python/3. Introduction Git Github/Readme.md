@@ -1,4 +1,4 @@
-![Module 3](https://github.com/kemda2/Google-IT-Automation-with-Python/assets/19648132/e6fab4c7-b2b3-47c2-88f5-ecce3b2019d7)
+![Module 3](3%20Introduction%20to%20Git%20and%20GitHub.jpeg)
 
 
 ## [Introduction to Git and Github](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation)
