@@ -1,5 +1,4 @@
-![Module 1](https://github.com/kemda2/Google-IT-Automation-with-Python/assets/19648132/0a98ce0f-80d1-477a-9d32-8c23c4e09bf0)
-
+![1 Crash Course on Python](./images/1 Crash Course on Python.jpeg)
 
 ## [Crash Course on Python](https://www.coursera.org/learn/python-crash-course?specialization=google-it-automation)
 
