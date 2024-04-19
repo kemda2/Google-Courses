@@ -1,4 +1,4 @@
-![Module 2](https://github.com/kemda2/Google-IT-Automation-with-Python/assets/19648132/5574c70e-d7f4-4bd5-8788-06934370af95)
+![Module 2](2%20Using%20Python%20to%20Interact%20with%20the%20Operating.jpeg)
 
 
 ## [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation)
