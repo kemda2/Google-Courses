@@ -1,4 +1,4 @@
-![Module 4](https://github.com/kemda2/Google-IT-Automation-with-Python/assets/19648132/bf56fdb3-d561-40f8-81ed-2e17ea44e318)
+![Module 4](4%20Troubleshooting%20and%20Debugging%20Techniques.jpeg)
 
 
 ## [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation)
